@@ -8,7 +8,7 @@ Lógica de programação
 
 CRUD
 
-HTML & CSS (caso esteja vendo também)
+HTML & CSS
 
 📘 Em breve...
 Estou trabalhando para criar meus primeiros projetos e compartilhá-los aqui no GitHub!
