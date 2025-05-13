@@ -1,28 +1,19 @@
-# Olá, eu sou a Lívian 👋
+👋 Olá! Eu sou a Lívian!!
+Atualmente estudo JavaScript e estou aprendendo a construir aplicações com foco em CRUD (Create, Read, Update, Delete). Estou no começo da minha jornada na programação e em constante evolução.
 
-Bem-vindo ao meu perfil no GitHub! Sou uma desenvolvedora apaixonada por tecnologia e programação. Atualmente, sou iniciante no mundo da Tecnologia. 
+🚀 Em aprendizado:
+JavaScript
 
-## Sobre Mim
+Lógica de programação
 
-- 🌱 Atualmente estou aprendendo **JavaScript**
-- 👯 Estou procurando evoluir  melhorar na programação!
-- 📫 Como me encontrar: [mariliabasilio45@gmail.com](mailto:mariliabasilio45@gmail.com)
+CRUD
 
-## Habilidades
+HTML & CSS (caso esteja vendo também)
 
-- **Linguagem de Programação:** JavaScript
-- **Ferramenta:** Git
+📘 Em breve...
+Estou trabalhando para criar meus primeiros projetos e compartilhá-los aqui no GitHub!
 
-<!--
-## Projetos em Destaque
-
--->
-
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mariliabasilio&show_icons=true&theme=radical)
-
-## Entre em Contato
-
-- [LinkedIn](https://www.linkedin.com/in/getulio-vagner-117341186/)
+📫 Você pode me encontrar no:
+E-mail: [mariliabasilio45@gmail.com](mailto:mariliabasilio45@gmail.com)
+LinkedIn: [Livian Marília](https://www.linkedin.com/in/livian-marília-1657662b3/)
 
