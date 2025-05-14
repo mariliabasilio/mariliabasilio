@@ -1,4 +1,5 @@
 👋 Olá! Eu sou a Lívian!!
+
 Atualmente estudo JavaScript e estou aprendendo a construir aplicações com foco em CRUD (Create, Read, Update, Delete). Estou no começo da minha jornada na programação e em constante evolução.
 
 🚀 Em aprendizado:
