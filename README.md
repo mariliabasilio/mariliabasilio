@@ -15,5 +15,6 @@ Estou trabalhando para criar meus primeiros projetos e compartilhá-los aqui no 
 
 📫 Você pode me encontrar no:
 E-mail: [mariliabasilio45@gmail.com](mailto:mariliabasilio45@gmail.com)
+
 LinkedIn: [Livian Marília](https://www.linkedin.com/in/livian-marília-1657662b3/)
 
